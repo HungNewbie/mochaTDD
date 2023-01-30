@@ -1,0 +1,28 @@
+{
+  "name": "mocha-tdd",
+  "version": "1.0.0",
+  "description": "example for mocha TDD",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HungNewbie/mochaTDD.git"
+  },
+  "keywords": [
+    "TDD"
+  ],
+  "author": "newbie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HungNewbie/mochaTDD/issues"
+  },
+  "homepage": "https://github.com/HungNewbie/mochaTDD#readme",
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  }
+}
